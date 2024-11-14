@@ -1,5 +1,6 @@
-function addition() {
-    return 42;
+function addition(a, b) {
+    let num = a + b;
+    return num;
 };
 
 // export the function
